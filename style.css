@@ -4,3 +4,8 @@ h1 {
 	font-style: italic;
 }
 
+ol, a{
+	font-size: larger;
+	color: red;
+}
+
